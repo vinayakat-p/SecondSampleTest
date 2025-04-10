@@ -15,5 +15,7 @@ public class AreaCalculator {
     // Method to calculate the area of a triangle
     double calculateArea(double base, float height) {
         return 0.5 * base * height;
+
+	    //Dummy comment
     }
 }
